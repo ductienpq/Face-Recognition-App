@@ -102,3 +102,6 @@ D:\C# Project\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyRefer
 D:\C# Project\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
 D:\C# Project\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
 D:\C# Project\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+D:\GitHub\Face-Recognition-App\bin\Debug\MultiFaceRec.exe.config
+D:\GitHub\Face-Recognition-App\obj\x86\Debug\MultiFaceRec.exe
+D:\GitHub\Face-Recognition-App\obj\x86\Debug\MultiFaceRec.pdb
